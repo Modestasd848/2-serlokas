@@ -10,7 +10,7 @@ _2 projektas_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/Modestasd848/2-serlokas
+Site published at: https://modestasd848.github.io/2-serlokas/
 
 Design: https://new-per.netlify.app/demo-3.html
 
